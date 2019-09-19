@@ -1,0 +1,94 @@
+# This file should contain all the record creation needed to seed the database with its default values.
+# The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
+#
+# Examples:
+#
+#   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
+#   Character.create(name: 'Luke', movie: movies.first)
+
+user1= User.create(name:"Grace")
+user2= User.create(name:"Eric")
+
+activity1= Activity.create(name:"Bateau", activity_type:"restaurant", city:"Seattle", image:"https://s3-media4.fl.yelpcdn.com/bphoto/N8Skxcnhva7jnSLFcwJwWQ/l.jpg")
+activity2= Activity.create(name:"Canlis", activity_type:"restaurant", city:"Seattle", image:"https://s3-media1.fl.yelpcdn.com/bphoto/OB59lIRRfQUzAMqYv-pi0w/o.jpg")
+activity3= Activity.create(name:"Sushi Kashiba", activity_type:"restaurant", city:"Seattle", image:"https://s3-media2.fl.yelpcdn.com/bphoto/iPcf5cZIqM6J-RylKLM4RA/o.jpg")
+activity4= Activity.create(name:"Kizuki Ramen & Izakaya", activity_type:"restaurant", city:"Seattle", image:"https://s3-media2.fl.yelpcdn.com/bphoto/cLUrEUTim_pZ6-VUbJKQiw/l.jpg")
+activity5= Activity.create(name:"Metropolitan Grill", activity_type:"restaurant", city:"Seattle", image:"https://s3-media1.fl.yelpcdn.com/bphoto/CtSHtkwK_S10gapHKlB3UA/l.jpg")
+activity6= Activity.create(name:"Revel", activity_type:"restaurant", city:"Seattle", image:"https://s3-media4.fl.yelpcdn.com/bphoto/WMW2sdyJC7lfmFqN6wnFxA/l.jpg")
+activity7= Activity.create(name:"SOI", activity_type:"restaurant", city:"Seattle", image:"https://s3-media4.fl.yelpcdn.com/bphoto/MZ1C9wO9vBR18Uc8IgR7oQ/l.jpg")
+activity8= Activity.create(name:"Serafina", activity_type:"restaurant", city:"Seattle", image:"https://s3-media1.fl.yelpcdn.com/bphoto/apkvllYgsu5X-os9j66zEQ/348s.jpg")
+activity9= Activity.create(name:"Mr. West Cafe Bar", activity_type:"restaurant", city:"Seattle", image:"https://s3-media3.fl.yelpcdn.com/bphoto/ruvYF_ehjmJLq3uKBiEaAw/l.jpg")
+activity10= Activity.create(name:"8oz Burger & Co", activity_type:"restaurant", city:"Seattle", image:"https://s3-media3.fl.yelpcdn.com/bphoto/NfIzFgqGI_BKIrBd61T2oQ/o.jpg")
+
+
+activity11= Activity.create(name:"Loews Hotel 1000 Seattle", activity_type:"hotel", city:"Seattle", image:"https://thumbnails.trvl-media.com/_0oNzfU9czZ3e_s0NqyOBc3NEZ0=/1200x800/smart/images.trvl-media.com/hotels/2000000/1500000/1495200/1495139/ad4b8aa2_w.jpg")
+activity12= Activity.create(name:"Bellevue Club Hotel", activity_type:"hotel", city:"Seattle", image:"https://thumbnails.trvl-media.com/lB9hSvQYQHr6YsFJFH7thneUZXA=/1200x800/smart/images.trvl-media.com/hotels/1000000/50000/41900/41884/fbcf5862_w.jpg")
+activity13= Activity.create(name:"Hyatt Regency Seattle", activity_type:"hotel", city:"Seattle", image:"https://thumbnails.trvl-media.com/3ZMPGNfXebhT4C_BmJg_O84kI3E=/1200x800/smart/images.trvl-media.com/hotels/30000000/29050000/29049600/29049536/e2aa141f_w.jpg")
+activity14= Activity.create(name:"Residence Inn by Marriott Seattle ", activity_type:"hotel", city:"Seattle", image:"https://thumbnails.trvl-media.com/TBpWx_l2g-fc8ee7pjeeei37yF0=/1200x800/smart/images.trvl-media.com/hotels/21000000/20090000/20088200/20088122/dcd23b67_w.jpg")
+activity15= Activity.create(name:"Four Seasons Hotel Seattle", activity_type:"hotel", city:"Seattle", image:"https://thumbnails.trvl-media.com/zd1b6cXCRU-w8lNRwBdDVIYySv0=/1200x800/smart/images.trvl-media.com/hotels/3000000/2170000/2163100/2163007/f7ec8bad_w.jpg")
+activity16= Activity.create(name:"W Bellevue", activity_type:"hotel", city:"Seattle", image:"https://thumbnails.trvl-media.com/Drac7wBikXIFFACTj6f8piG8X8w=/1200x800/smart/images.trvl-media.com/hotels/18000000/17800000/17793500/17793469/5f32cae2_w.jpg")
+activity17= Activity.create(name:"The Sound Hotel Seattle", activity_type:"hotel", city:"Seattle", image:"http://images.trvl-media.com/hotels/32000000/31810000/31802100/31802068/2b70927d_z.jpg")
+activity18= Activity.create(name:"The State Hotel", activity_type:"hotel", city:"Seattle", image:"https://thumbnails.trvl-media.com/5bS7NVyP999LROR5ZEF7aiE4U8Q=/1200x800/smart/images.trvl-media.com/hotels/28000000/27390000/27380800/27380703/094fc752_w.jpg")
+activity19= Activity.create(name:"Hotel Theodore", activity_type:"hotel", city:"Seattle", image:"https://thumbnails.trvl-media.com/KYW7De1OaV_zfGXhTIi0Db_jYxE=/1200x800/smart/images.trvl-media.com/hotels/1000000/30000/28300/28274/18928024_w.jpg")
+activity20= Activity.create(name:"Motif Seattle", activity_type:"hotel", city:"Seattle", image:"https://thumbnails.trvl-media.com/r0-V9Kmt0mLdx_rkND5jLt_5tSM=/1200x800/smart/images.trvl-media.com/hotels/1000000/60000/51000/50947/6ce58a4f_w.jpg")
+
+activity21= Activity.create(name:"Space Needle", activity_type:"activity", city:"Seattle", image:"https://images.unsplash.com/photo-1551092868-0b77c6db2537?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity22= Activity.create(name:"Pike Street Market", activity_type:"activity", city:"Seattle", image:"https://images.unsplash.com/photo-1549092273-8b23dde8ac2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80")
+activity23= Activity.create(name:"Mt. Ranier", activity_type:"activity", city:"Seattle", image:"https://cdn-files.apstatic.com/hike/7020767_medium_1554838813.jpg")
+activity24= Activity.create(name:"Harbor Cruise", activity_type:"activity", city:"Seattle", image:"https://images.unsplash.com/photo-1554254648-2d58a1bc3fd5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity25= Activity.create(name:"Chihuly Garden and Glass", activity_type:"activity", city:"Seattle", image:"https://pbs.twimg.com/media/D48nnSaWkAA_GuG.jpg:medium")
+activity26= Activity.create(name:"Olympic National Park", activity_type:"activity", city:"Seattle", image:"https://i.ytimg.com/vi/vQzv8QrZZjU/maxresdefault.jpg")
+activity27= Activity.create(name:"Kerry Park", activity_type:"activity", city:"Seattle", image:"https://images.unsplash.com/photo-1464059728276-d877187d61a9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity28= Activity.create(name:"Snoqualmie Falls", activity_type:"activity", city:"Seattle", image:"https://images.unsplash.com/photo-1518921335170-c18eb5b6dc49?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity29= Activity.create(name:"Woodland Park Zoo", activity_type:"activity", city:"Seattle", image:"https://images.unsplash.com/photo-1467302091917-c7ac18f83832?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity30= Activity.create(name:"Ice Cave Tour", activity_type:"activity", city:"Seattle", image:"https://images.unsplash.com/photo-1490143921278-d853145e4977?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+
+activity31= Activity.create(name:"Gramercy Tavern", activity_type:"restaurant", city:"New York", image:"https://s3-media4.fl.yelpcdn.com/bphoto/MgfPMoFNmjIWcrMxTZbsvw/l.jpg")
+activity32= Activity.create(name:"Burger & Lobster", activity_type:"restaurant", city:"New York", image:"https://s3-media3.fl.yelpcdn.com/bphoto/pKjs1DjfVYeYoJwjhkJR9g/o.jpg")
+activity33= Activity.create(name:"Strip House", activity_type:"restaurant", city:"New York", image:"https://s3-media4.fl.yelpcdn.com/bphoto/GHhWjWs7JTx4gOlQw2IHMg/o.jpg")
+activity34= Activity.create(name:"Dutch Freds", activity_type:"restaurant", city:"New York", image:"https://s3-media4.fl.yelpcdn.com/bphoto/-SeVWK0VMEgrEA0G8TvutQ/l.jpg")
+activity35= Activity.create(name:"Beauty & Essex", activity_type:"restaurant", city:"New York", image:"https://s3-media2.fl.yelpcdn.com/bphoto/TxNOpPs9Rb9L_bLo6LQF3w/l.jpg")
+activity36= Activity.create(name:"Minetta Tavern", activity_type:"restaurant", city:"New York", image:"https://s3-media1.fl.yelpcdn.com/bphoto/4cAjstvK2AG9xU_yJKZZBw/l.jpg")
+activity37= Activity.create(name:"Ladurée", activity_type:"restaurant", city:"New York", image:"https://s3-media4.fl.yelpcdn.com/bphoto/9WESEjQeRQF4I72zOHhjhQ/o.jpg")
+activity38= Activity.create(name:"Socarrat Paella Bar", activity_type:"restaurant", city:"New York", image:"https://s3-media4.fl.yelpcdn.com/bphoto/306Awg0qvHesU5AWMQrhaQ/l.jpg")
+activity39= Activity.create(name:"Pig and Khao", activity_type:"restaurant", city:"New York", image:"https://s3-media4.fl.yelpcdn.com/bphoto/bV_sHIsR3MFmclD63AmwKA/o.jpg")
+activity40= Activity.create(name:"HARBS", activity_type:"restaurant", city:"New York", image:"https://s3-media2.fl.yelpcdn.com/bphoto/K84ydKRzyQD3FMHIPKQo1Q/l.jpg")
+
+activity41= Activity.create(name:"WestHouse New York", activity_type:"hotel", city:"New York", image:"https://thumbnails.trvl-media.com/xjLdOMICXA_kSsuAhplZ4c3KBz4=/1200x800/smart/images.trvl-media.com/hotels/7000000/6470000/6468000/6467973/3dcce4ed_w.jpg")
+activity42= Activity.create(name:"Hotel Hendricks", activity_type:"hotel", city:"New York", image:"https://thumbnails.trvl-media.com/-pshMCCLhiQ-Lzp-ZGfstbPXRv0=/1200x800/smart/images.trvl-media.com/hotels/34000000/33100000/33093500/33093413/36e7180f_w.jpg")
+activity43= Activity.create(name:"The Marmara Park Avenue", activity_type:"hotel", city:"New York", image:"https://s3-media3.fl.yelpcdn.com/bphoto/J5E3tokcORieZvIBhl3izg/o.jpg")
+activity44= Activity.create(name:"The Quin Central Park by Hilton Club", activity_type:"hotel", city:"New York", image:"https://s3-media4.fl.yelpcdn.com/bphoto/jH7IaoVn4l4rwfsaHJ4IgQ/o.jpg")
+activity45= Activity.create(name:"The Beekman, A Thompson Hotel", activity_type:"hotel", city:"New York", image:"https://s3-media4.fl.yelpcdn.com/bphoto/J1T2KdyhwT-cufAgI9S9NA/o.jpg")
+activity46= Activity.create(name:"The Plaza Hotel", activity_type:"hotel", city:"New York", image:"https://s3-media3.fl.yelpcdn.com/bphoto/fT2Crsr5L6Rv5UYeHeJWkA/o.jpg")
+activity47= Activity.create(name:"The Surrey", activity_type:"hotel", city:"New York", image:"https://s3-media4.fl.yelpcdn.com/bphoto/XEpSCTbBS-FrYfaSFn9CyQ/o.jpg")
+activity48= Activity.create(name:"The Ritz-Carlton New York, Central Park", activity_type:"hotel", city:"New York", image:"https://s3-media4.fl.yelpcdn.com/bphoto/kKXB96vt1jks-mc5tzPvwA/o.jpg")
+activity49= Activity.create(name:"The Park Hyatt New York", activity_type:"hotel", city:"New York", image:"https://s3-media3.fl.yelpcdn.com/bphoto/gh34-NpTA4DdPktrXYqSvQ/o.jpg")
+activity50= Activity.create(name:"Sixty Soho", activity_type:"hotel", city:"New York", image:"https://s3-media1.fl.yelpcdn.com/bphoto/EJ34sWEGCIio1Q2TO2OGaQ/o.jpg")
+
+
+activity51= Activity.create(name:"Metropolitan museum", activity_type:"activity", city:"New York", image:"https://images.unsplash.com/photo-1558016512-5e2dab355508?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity52= Activity.create(name:"Central Park", activity_type:"activity", city:"New York", image:"https://images.unsplash.com/photo-1459508583695-86e229e8855a?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60")
+activity53= Activity.create(name:"Empire State Building", activity_type:"activity", city:"New York", image:"https://images.unsplash.com/photo-1551009554-0cd7010a372d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity54= Activity.create(name:"Statue of Liberty", activity_type:"activity", city:"New York", image:"https://images.unsplash.com/photo-1485738422979-f5c462d49f74?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity55= Activity.create(name:"Skyline Tour of New York City", activity_type:"activity", city:"New York", image:"https://media.tacdn.com/media/attractions-splice-spp-674x446/07/00/83/4d.jpg")
+activity56= Activity.create(name:"Immersive theatre Sleep No More", activity_type:"activity", city:"New York", image:"http://www.coachhousetheatre.co.uk/wp-content/uploads/poster6.jpg")
+activity57= Activity.create(name:"Party at the house of yes", activity_type:"activity", city:"New York", image:"https://houseofyes.org/wp-content/uploads/2018/05/home-gallery-07-e1525362529957-1024x970.jpg")
+activity58= Activity.create(name:"Time square", activity_type:"activity", city:"New York", image:"https://images.unsplash.com/photo-1556807044-eaf2e0eecb6d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity59= Activity.create(name:"Art fair NYC", activity_type:"activity", city:"New York", image:"https://images.unsplash.com/photo-1491245338813-c6832976196e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity60= Activity.create(name:"Brooklyn bridge park", activity_type:"activity", city:"New York", image:"https://images.unsplash.com/photo-1452796651103-7c07fca7a2c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+
+
+activity51= Activity.create(name:"", activity_type:"activity", city:"New York", image:"")
+activity51= Activity.create(name:"", activity_type:"activity", city:"New York", image:"")
+
+
+
+
+
+
+
+
+
+
+
+
