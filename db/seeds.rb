@@ -78,8 +78,84 @@ activity59= Activity.create(name:"Art fair NYC", activity_type:"activity", city:
 activity60= Activity.create(name:"Brooklyn bridge park", activity_type:"activity", city:"newyork", image:"https://images.unsplash.com/photo-1452796651103-7c07fca7a2c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
 
 
-# activity51= Activity.create(name:"", activity_type:"activity", city:"newyork", image:"")
-# activity51= Activity.create(name:"", activity_type:"activity", city:"newyork", image:"")
+activity61= Activity.create(name:"Fog Harbor Fish House", activity_type:"restaurant", city:"sanfrancisco", image:"https://s3-media2.fl.yelpcdn.com/bphoto/Lv7tIRX3Bim9bKqtWifmNg/o.jpg")
+activity62= Activity.create(name:"Scoma's Restaurant", activity_type:"restaurant", city:"sanfrancisco", image:"https://s3-media1.fl.yelpcdn.com/bphoto/jbTvgajKfdOYOTEoSTyy3Q/o.jpg")
+activity63= Activity.create(name:"Beretta", activity_type:"restaurant", city:"sanfrancisco", image:"https://s3-media1.fl.yelpcdn.com/bphoto/HKxMJ8q8fzOY76hy7ACIag/o.jpg")
+activity64= Activity.create(name:"Sweet Maple", activity_type:"restaurant", city:"sanfrancisco", image:"https://s3-media1.fl.yelpcdn.com/bphoto/0wXPku83Gkrx5qgE7tDjkQ/o.jpg")
+activity65= Activity.create(name:"Absinthe Brasserie & Bar", activity_type:"restaurant", city:"sanfrancisco", image:"https://s3-media2.fl.yelpcdn.com/bphoto/qVYPzmEiIzHW6l8c-mV6Iw/o.jpg")
+activity66= Activity.create(name:"Kitchen Story", activity_type:"restaurant", city:"sanfrancisco", image:"https://s3-media1.fl.yelpcdn.com/bphoto/uETy8t3_NILBpJHOp7B9GA/o.jpg")
+activity67= Activity.create(name:"Waterbar", activity_type:"restaurant", city:"sanfrancisco", image:"https://s3-media4.fl.yelpcdn.com/bphoto/lLhgoH053fKUPddVeIWoWg/o.jpg")
+activity68= Activity.create(name:"La Folie", activity_type:"restaurant", city:"sanfrancisco", image:"https://s3-media2.fl.yelpcdn.com/bphoto/IWFU__yz5tfgh--sEL40ow/o.jpg")
+activity69= Activity.create(name:"Benu", activity_type:"restaurant", city:"sanfrancisco", image:"https://s3-media4.fl.yelpcdn.com/bphoto/5XY9Nle2m7237dDOHqQDNQ/o.jpg")
+activity70= Activity.create(name:"KUSAKABE", activity_type:"restaurant", city:"sanfrancisco", image:"https://s3-media1.fl.yelpcdn.com/bphoto/iXZ1Ts45fAl83jO9XhOELQ/o.jpg")
+
+
+activity71= Activity.create(name:"JW Marriott San Francisco Union Square", activity_type:"hotel", city:"sanfrancisco", image:"https://s3-media3.fl.yelpcdn.com/bphoto/zj_e7vlHHUT5TqJ6ZExYpw/o.jpg")
+activity72= Activity.create(name:"The St. Regis San Francisco", activity_type:"hotel", city:"sanfrancisco", image:"https://images.unsplash.com/photo-1551525212-a1dc18871d4a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity73= Activity.create(name:"Four Seasons Hotel San Francisco", activity_type:"hotel", city:"sanfrancisco", image:"https://thumbnails.trvl-media.com/jbnNG-q3N2taGBEZXm1fUq6hWqw=/1200x800/smart/images.trvl-media.com/hotels/1000000/800000/791800/791769/8650bbff_w.jpg")
+activity74= Activity.create(name:"The Ritz-Carlton, San Francisco", activity_type:"hotel", city:"sanfrancisco", image:"https://thumbnails.trvl-media.com/nrBIXrTDK4-DQVOgV7Bw-CNwalI=/1200x800/smart/images.trvl-media.com/hotels/1000000/30000/22200/22148/558039f2_w.jpg")
+activity75= Activity.create(name:"The Marker San Francisco", activity_type:"hotel", city:"sanfrancisco", image:"https://thumbnails.trvl-media.com/06qcoGvxAPDc78u5FlTN7W5MbCM=/1200x800/smart/images.trvl-media.com/hotels/1000000/20000/15800/15769/09e35160_w.jpg")
+activity76= Activity.create(name:"Hotel Zoe Fisherman's Wharf", activity_type:"hotel", city:"sanfrancisco", image:"https://thumbnails.trvl-media.com/7eYTEJ2rJxr5EfltoNYmE9Xjx7c=/1200x800/smart/images.trvl-media.com/hotels/1000000/30000/22200/22148/3c92a22e_w.jpg")
+activity77= Activity.create(name:"Pullman San Francisco Bay", activity_type:"hotel", city:"sanfrancisco", image:"https://thumbnails.trvl-media.com/alC2vxfDXLtkozoM4XYhtpVlzhA=/1200x800/smart/images.trvl-media.com/hotels/1000000/10000/5900/5830/dc0a1d20_w.jpg")
+activity78= Activity.create(name:"Staypineapple, An Elegant Hotel, Union Square", activity_type:"hotel", city:"sanfrancisco", image:"https://thumbnails.trvl-media.com/IqitQpUQni_yiKIVV1rBuLpDgik=/1200x800/smart/images.trvl-media.com/hotels/1000000/20000/10300/10266/ab1920bc_w.jpg")
+activity79= Activity.create(name:"Hotel Triton", activity_type:"hotel", city:"sanfrancisco", image:"https://thumbnails.trvl-media.com/YQhqQQ9I-DvfqEswCe8bjCZQVOY=/1200x800/smart/images.trvl-media.com/hotels/1000000/10000/1200/1110/0fdb0ab1_w.jpg")
+activity80= Activity.create(name:"Fairmont Heritage Place", activity_type:"hotel", city:"sanfrancisco", image:"https://thumbnails.trvl-media.com/1iS19G07OzQT060t2nB9xEIiWpI=/1200x800/smart/images.trvl-media.com/hotels/1000000/30000/22200/22148/53a0e3e1_w.jpg")
+
+
+activity81= Activity.create(name:"Golden Gate Bridge", activity_type:"activity", city:"sanfrancisco", image:"https://images.unsplash.com/photo-1450149632596-3ef25a62011a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity82= Activity.create(name:"Napa and Sonoma Wine Contry", activity_type:"activity", city:"sanfrancisco", image:"https://images.unsplash.com/photo-1482275548304-a58859dc31b7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity83= Activity.create(name:"San Francisco Bay Sunset Cruise", activity_type:"activity", city:"sanfrancisco", image:"https://images.unsplash.com/photo-1559599746-8823b38544c6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity84= Activity.create(name:"Monterey, Carmel and 17-mile drive", activity_type:"activity", city:"sanfrancisco", image:"https://images.unsplash.com/photo-1554768707-a66bcfe69e89?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80")
+activity85= Activity.create(name:"Opera at the Balloark", activity_type:"activity", city:"sanfrancisco", image:"https://images.unsplash.com/photo-1452778374718-046c69a5c02f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity86= Activity.create(name:"San Francisco coffee festival", activity_type:"activity", city:"sanfrancisco", image:"https://images.unsplash.com/photo-1553867669-5ef9529cc9a2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity87= Activity.create(name:"San Francisco Fisherman Harbor", activity_type:"activity", city:"sanfrancisco", image:"https://images.unsplash.com/photo-1529244001271-91b841fa1058?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity88= Activity.create(name:"Lombard Street", activity_type:"activity", city:"sanfrancisco", image:"https://images.unsplash.com/photo-1537242892475-cf01eb002083?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity89= Activity.create(name:"Yosemite National Park", activity_type:"activity", city:"sanfrancisco", image:"https://images.unsplash.com/photo-1542249277-9bf0815c06f3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80")
+activity90= Activity.create(name:"San Francisco Museum of Mordern Art", activity_type:"activity", city:"sanfrancisco", image:"https://images.unsplash.com/photo-1534235826754-0a3572d1d6d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+
+
+activity91= Activity.create(name:"République", activity_type:"restaurant", city:"losangeles", image:"https://s3-media1.fl.yelpcdn.com/bphoto/Iw1c95OCW1O_efcxrXnHLA/o.jpg")
+activity92= Activity.create(name:"Blue Jam Cafe", activity_type:"restaurant", city:"losangeles", image:"https://s3-media2.fl.yelpcdn.com/bphoto/zHtoOWnSnUzIXSS0j_rR6g/o.jpg")
+activity93= Activity.create(name:"Marugame Monzo", activity_type:"restaurant", city:"losangeles", image:"https://s3-media3.fl.yelpcdn.com/bphoto/FW0gFue6XdYvOhkUoYhOoQ/o.jpg")
+activity94= Activity.create(name:"BCD Tofu House", activity_type:"restaurant", city:"losangeles", image:"https://s3-media3.fl.yelpcdn.com/bphoto/L7nfi3i3bOpm-2SOCegojQ/o.jpg")
+activity95= Activity.create(name:"Gjelina", activity_type:"restaurant", city:"losangeles", image:"https://s3-media2.fl.yelpcdn.com/bphoto/IPLXPjcD9DhG8CUDjEW_hw/o.jpg")
+activity96= Activity.create(name:"The Bazaar by José Andrés", activity_type:"restaurant", city:"losangeles", image:"https://s3-media2.fl.yelpcdn.com/bphoto/GQca5ZS_lp2RCaAcfb3sRA/o.jpg")
+activity97= Activity.create(name:"Fig & Olive - Melrose Place", activity_type:"restaurant", city:"losangeles", image:"https://s3-media3.fl.yelpcdn.com/bphoto/Ykw24AjEdtx3dnv0TTJpbw/o.jpg")
+activity98= Activity.create(name:"The Lobster", activity_type:"restaurant", city:"losangeles", image:"https://s3-media4.fl.yelpcdn.com/bphoto/UL6fkyA6gTDRDMAoPJEuCw/o.jpg")
+activity99= Activity.create(name:"The Morrison", activity_type:"restaurant", city:"losangeles", image:"https://s3-media3.fl.yelpcdn.com/bphoto/SHyURgpdEJL1xHfbrfLBtw/o.jpg")
+activity100= Activity.create(name:"Daikokuya Little Tokyo", activity_type:"restaurant", city:"losangeles", image:"https://s3-media4.fl.yelpcdn.com/bphoto/GG71SxFbzBd9-SRMRtB1EQ/o.jpg")
+
+
+
+activity101= Activity.create(name:"The London West Hollywood", activity_type:"hotel", city:"losangeles", image:"https://thumbnails.trvl-media.com/FJq_VQN7nOuJHyMV_ucIrlq040A=/1200x800/smart/images.trvl-media.com/hotels/1000000/10000/5900/5830/e1c3491d_w.jpg")
+activity102= Activity.create(name:"The Marina Del Rey Hotel", activity_type:"hotel", city:"losangeles", image:"https://s3-media3.fl.yelpcdn.com/bphoto/2AU8D-XICjjShVdgqU2REw/o.jpg")
+activity103= Activity.create(name:"Shore Hotel", activity_type:"hotel", city:"losangeles", image:"https://thumbnails.trvl-media.com/Gq55mX4kLgteA2qqWedb3jvRYco=/1200x800/smart/images.trvl-media.com/hotels/1000000/30000/22200/22148/fe0901b3_w.jpg")
+activity104= Activity.create(name:"Loews Santa Monica Beach Hotel", activity_type:"hotel", city:"losangeles", image:"https://thumbnails.trvl-media.com/WAg0h1NDtBvu3UmX1sL4SakUmqE=/1200x800/smart/images.trvl-media.com/hotels/1000000/20000/13000/12954/466474be_w.jpg")
+activity105= Activity.create(name:"Waldorf Astoria Beverly Hills", activity_type:"hotel", city:"losangeles", image:"https://thumbnails.trvl-media.com/yXc3CU5SCdZP4Rs3K1YMPL0Ue-s=/1200x800/smart/images.trvl-media.com/hotels/17000000/16280000/16272200/16272134/5a8974ca_w.jpg")
+activity106= Activity.create(name:"Mondrian Los Angeles", activity_type:"hotel", city:"losangeles", image:"https://thumbnails.trvl-media.com/dgyok1VsS6WYEGHWGma3kilTYWA=/1200x800/smart/images.trvl-media.com/hotels/1000000/10000/4800/4798/3e205902_w.jpg")
+activity107= Activity.create(name:"The Mosaic Hotel - Beverly Hills", activity_type:"hotel", city:"losangeles", image:"https://thumbnails.trvl-media.com/vD0UoBFlC37q7_8_E0kxi1UZbhE=/1200x800/smart/images.trvl-media.com/hotels/1000000/50000/40900/40835/0e5e7da3_w.jpg")
+activity108= Activity.create(name:"Hotel Shangri La Santa Monica", activity_type:"hotel", city:"losangeles", image:"https://thumbnails.trvl-media.com/fxXuwZc1dNw_DVlvvW9CPyvkEuA=/1200x800/smart/images.trvl-media.com/hotels/3000000/2180000/2175200/2175155/4da30528_w.jpg")
+activity109= Activity.create(name:"The Ambrose", activity_type:"hotel", city:"losangeles", image:"https://thumbnails.trvl-media.com/7x2wb_meKikhR-Zb0qmQSx3cEsY=/1200x800/smart/images.trvl-media.com/hotels/1000000/900000/890600/890565/a19dd975_w.jpg")
+activity110= Activity.create(name:"Montage Beverly Hills", activity_type:"hotel", city:"losangeles", image:"https://thumbnails.trvl-media.com/LIhGTAR6kX5vKjYnTFQi2dmrm0c=/1200x800/sma…mages.trvl-media.com/hotels/3000000/2030000/2025500/2025453/a366a376_w.jpg")
+
+
+activity111= Activity.create(name:"Santa Monica Beach", activity_type:"activity", city:"losangeles", image:"https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity112= Activity.create(name:"The Getty Center", activity_type:"activity", city:"losangeles", image:"https://images.unsplash.com/photo-1548210570-1a631468594a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity113= Activity.create(name:"Los Angeles Harbor Boat Show", activity_type:"activity", city:"losangeles", image:"https://images.unsplash.com/photo-1534966376130-016cb882b679?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80")
+activity114= Activity.create(name:"SAMSKARA Immersive Art Exhibition", activity_type:"activity", city:"losangeles", image:"https://images.unsplash.com/photo-1445153758740-1a8af538ab6a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity115= Activity.create(name:"Universal Studios", activity_type:"activity", city:"losangeles", image:"https://images.unsplash.com/photo-1452826942781-56e3f80f6a35?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity116= Activity.create(name:"Beer Festival", activity_type:"activity", city:"losangeles", image:"https://images.unsplash.com/photo-1471421298428-1513ab720a8e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity117= Activity.create(name:"Helicopter Tour over Long Beach", activity_type:"activity", city:"losangeles", image:"https://images.unsplash.com/photo-1522548234746-ff8a206aa0b7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity118= Activity.create(name:"Hearst Castle", activity_type:"activity", city:"losangeles", image:"https://images.unsplash.com/photo-1519681196776-49b34c9486d6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity119= Activity.create(name:"Griffith Observatory", activity_type:"activity", city:"losangeles", image:"https://images.unsplash.com/photo-1566864717473-2f0daf8979e5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+activity120= Activity.create(name:"Hollywood", activity_type:"activity", city:"losangeles", image:"https://images.unsplash.com/photo-1549399541-337e17f70ad7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
+
+
+
+
+
+
+
 
 
 
