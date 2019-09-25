@@ -151,6 +151,45 @@ activity119= Activity.create(name:"Griffith Observatory", activity_type:"activit
 activity120= Activity.create(name:"Hollywood", activity_type:"activity", city:"losangeles", image:"https://images.unsplash.com/photo-1549399541-337e17f70ad7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
 
 
+activity121= Activity.create(name:"The Salty Donut", activity_type:"restaurant", city:"miami", image:"https://s3-media1.fl.yelpcdn.com/bphoto/Z14GLdIxNJ1XsuQdYUdOuA/l.jpg")
+activity122= Activity.create(name:"Red Carpet Italian", activity_type:"restaurant", city:"miami", image:"https://s3-media3.fl.yelpcdn.com/bphoto/90gUV1vko2OGFTYx8Ytx0g/o.jpg")
+activity123= Activity.create(name:"Dasher & Crank", activity_type:"restaurant", city:"miami", image:"https://s3-media4.fl.yelpcdn.com/bphoto/gS_xDoP1uR1GJJHtF67Tzw/o.jpg")
+activity124= Activity.create(name:"Toro Toro", activity_type:"restaurant", city:"miami", image:"https://s3-media1.fl.yelpcdn.com/bphoto/E14ohLEhdrYUtrFPDYeVEQ/l.jpg")
+activity125= Activity.create(name:"Bunbury", activity_type:"restaurant", city:"miami", image:"https://s3-media3.fl.yelpcdn.com/bphoto/vXJmcm14T_szQ8spTZXDnA/o.jpg")
+activity126= Activity.create(name:"La Petite Maison", activity_type:"restaurant", city:"miami", image:"https://s3-media4.fl.yelpcdn.com/bphoto/l93__391i-fQQvf053L8VA/o.jpg")
+activity127= Activity.create(name:"Pura Vida - Coral Gables", activity_type:"restaurant", city:"miami", image:"https://s3-media4.fl.yelpcdn.com/bphoto/5qguR72E-5cez0ER4EYffQ/o.jpg")
+activity128= Activity.create(name:"Le Chick Miami", activity_type:"restaurant", city:"miami", image:"https://s3-media3.fl.yelpcdn.com/bphoto/NqCAubTnZgRzBRVdxjTeUw/l.jpg")
+activity129= Activity.create(name:"The Capital Grille", activity_type:"restaurant", city:"miami", image:"https://s3-media2.fl.yelpcdn.com/bphoto/DTtt6cljNdkjErnWhf8Mmw/l.jpg")
+activity130= Activity.create(name:"B Bistro + Bakery", activity_type:"restaurant", city:"miami", image:"https://s3-media2.fl.yelpcdn.com/bphoto/pMrx15CKoVhT0cLx5Jrp7w/o.jpg")
+
+
+activity131= Activity.create(name:"Acqualina Resort and Spa", activity_type:"hotel", city:"miami", image:"https://thumbnails.trvl-media.com/yFsLjCoHn6cqVA73K3H3IGW3pZs=/1200x800/smart/images.trvl-media.com/hotels/2000000/1120000/1113200/1113163/4a5007cd_w.jpg")
+activity132= Activity.create(name:"The Setai", activity_type:"hotel", city:"miami", image:"https://thumbnails.trvl-media.com/iVfL_ox4-tmy9lwQeW2q7HqvRqk=/1200x800/smart/images.trvl-media.com/hotels/2000000/1130000/1126600/1126560/39beaf68_w.jpg")
+activity133= Activity.create(name:"1 Hotel South Beach", activity_type:"hotel", city:"miami", image:"https://thumbnails.trvl-media.com/h5V4rlLPGPlYvw8I3AGkHUFCcdo=/1200x800/smart/images.trvl-media.com/hotels/2000000/1800000/1790100/1790087/0ca6b364_w.jpg")
+activity134= Activity.create(name:"W South Beach", activity_type:"hotel", city:"miami", image:"https://thumbnails.trvl-media.com/Gnz1FjeZ-9cpdlOWeJJUmftPQN0=/1200x800/smart/images.trvl-media.com/hotels/1000000/20000/11900/11881/fcd26104_w.jpg")
+activity135= Activity.create(name:"Global Luxury Suites Downtown Miami", activity_type:"hotel", city:"miami", image:"https://thumbnails.trvl-media.com/owweuuy2llAaDCnXpfsSd_QUZ-Y=/1200x800/smart/images.trvl-media.com/hotels/36000000/35820000/35810600/35810591/b36f8463_w.jpg")
+activity136= Activity.create(name:"The Ritz-Carlton Bal Harbour, Miami", activity_type:"hotel", city:"miami", image:"https://thumbnails.trvl-media.com/uQ3L_Ts8ivgyfGash5vf8iOpds0=/1200x800/smart/images.trvl-media.com/hotels/2000000/1750000/1746300/1746288/87ee4276_w.jpg")
+activity137= Activity.create(name:"The St. Regis Bal Harbour Resort", activity_type:"hotel", city:"miami", image:"https://thumbnails.trvl-media.com/i3_LJHPUhw2b12I-fZ4GBurlArg=/1200x800/smart/images.trvl-media.com/hotels/5000000/4650000/4648700/4648699/41c86bbf_w.jpg")
+activity138= Activity.create(name:"Urbanica The Meridian Hotel", activity_type:"hotel", city:"miami", image:"https://thumbnails.trvl-media.com/HfV3pUxOwxny-YupUYHQxVpQSkw=/1200x800/smart/images.trvl-media.com/hotels/16000000/15770000/15768200/15768135/93ee804b_z.jpg")
+activity139= Activity.create(name:"Kimpton Angler's Hotel", activity_type:"hotel", city:"miami", image:"https://thumbnails.trvl-media.com/Vui7tawy2wZAVEYuM2dyIqMgGAI=/1200x800/smart/images.trvl-media.com/hotels/2000000/1630000/1620100/1620058/11101d33_w.jpg")
+activity140= Activity.create(name:"Carillon Miami Wellness Resort", activity_type:"hotel", city:"miami", image:"https://thumbnails.trvl-media.com/jj-VqOVr4B2QOxsRM1EFNpm1-y4=/1200x800/smart/images.trvl-media.com/hotels/12000000/11350000/11344400/11344361/164fa623_w.jpg")
+
+
+activity141= Activity.create(name:"Miami Beach", activity_type:"activity", city:"miami", image:"https://cdn.pixabay.com/photo/2017/04/05/01/16/tropical-2203737__340.jpg")
+activity142= Activity.create(name:"Bill Baggs Cape Florida State Park", activity_type:"activity", city:"miami", image:"https://images.unsplash.com/photo-1545594569-b9a96494d3ce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60")
+activity143= Activity.create(name:"Miami Beach Botanical Garden", activity_type:"activity", city:"miami", image:"https://images.unsplash.com/photo-1560675015-5259fc662c8f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60")
+activity144= Activity.create(name:"https://cdn-image.travelandleisure.com/sites/default/files/styles/medium_2x/public/1445264480/MIAMI1015-soundscape-cinema-series.jpg", activity_type:"activity", city:"miami", image:"https://cdn-image.travelandleisure.com/sites/default/files/styles/medium_2x/public/1445264480/MIAMI1015-soundscape-cinema-series.jpg")
+activity145= Activity.create(name:"Vizcaya Museum & Gardens", activity_type:"activity", city:"miami", image:"https://cdn-image.travelandleisure.com/sites/default/files/styles/medium_2x/public/1445264480/MIAMI1015-vizcaya-museum-and-gardens.jpg?itok=IDG3N_jR")
+activity146= Activity.create(name:"Wynwood Walls", activity_type:"activity", city:"miami", image:"https://images.unsplash.com/photo-1518580012572-8234ed213155?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60")
+activity147= Activity.create(name:"South Beach Wine & Food Festival", activity_type:"activity", city:"miami", image:"https://images.unsplash.com/photo-1566995541416-0bbb21e58796?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60")
+activity148= Activity.create(name:"Miami Seaquarium", activity_type:"activity", city:"miami", image:"https://images.unsplash.com/photo-1537858320050-8d60433d1600?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60")
+activity149= Activity.create(name:"Everglades Adventure From Miami", activity_type:"activity", city:"miami", image:"https://images.unsplash.com/photo-1486518714050-b97edb7fcfa9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60")
+activity150= Activity.create(name:"Boat Tour in Miami", activity_type:"activity", city:"miami", image:"https://cdn.pixabay.com/photo/2016/11/21/15/38/beach-1846009_960_720.jpg")
+
+
+
+
+
 
 
 

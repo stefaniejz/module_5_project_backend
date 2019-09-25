@@ -4,7 +4,7 @@ class EventsController < ApplicationController
       end_time = DateTime.parse(params["end_time"])
       
       (start_time..end_time).each do |date|
-      Event.create(time:date, activity_id:params["activity_id"], user_id:params["user_id"])
+        Event.create(time:date, activity_id:params["activity_id"], user_id:params["user_id"])
       end
     end
 
