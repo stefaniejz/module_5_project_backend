@@ -78,16 +78,16 @@ activity59= Activity.create(name:"Art fair NYC", activity_type:"activity", city:
 activity60= Activity.create(name:"Brooklyn bridge park", activity_type:"activity", city:"New York", image:"https://images.unsplash.com/photo-1452796651103-7c07fca7a2c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
 
 
-activity61= Activity.create(name:"Fog Harbor Fish House", activity_type:"restaurant", city:"sanfrancisco", image:"https://s3-media2.fl.yelpcdn.com/bphoto/Lv7tIRX3Bim9bKqtWifmNg/o.jpg")
-activity62= Activity.create(name:"Scoma's Restaurant", activity_type:"restaurant", city:"sanfrancisco", image:"https://s3-media1.fl.yelpcdn.com/bphoto/jbTvgajKfdOYOTEoSTyy3Q/o.jpg")
-activity63= Activity.create(name:"Beretta", activity_type:"restaurant", city:"sanfrancisco", image:"https://s3-media1.fl.yelpcdn.com/bphoto/HKxMJ8q8fzOY76hy7ACIag/o.jpg")
-activity64= Activity.create(name:"Sweet Maple", activity_type:"restaurant", city:"sanfrancisco", image:"https://s3-media1.fl.yelpcdn.com/bphoto/0wXPku83Gkrx5qgE7tDjkQ/o.jpg")
-activity65= Activity.create(name:"Absinthe Brasserie & Bar", activity_type:"restaurant", city:"sanfrancisco", image:"https://s3-media2.fl.yelpcdn.com/bphoto/qVYPzmEiIzHW6l8c-mV6Iw/o.jpg")
-activity66= Activity.create(name:"Kitchen Story", activity_type:"restaurant", city:"sanfrancisco", image:"https://s3-media1.fl.yelpcdn.com/bphoto/uETy8t3_NILBpJHOp7B9GA/o.jpg")
-activity67= Activity.create(name:"Waterbar", activity_type:"restaurant", city:"sanfrancisco", image:"https://s3-media4.fl.yelpcdn.com/bphoto/lLhgoH053fKUPddVeIWoWg/o.jpg")
-activity68= Activity.create(name:"La Folie", activity_type:"restaurant", city:"sanfrancisco", image:"https://s3-media2.fl.yelpcdn.com/bphoto/IWFU__yz5tfgh--sEL40ow/o.jpg")
-activity69= Activity.create(name:"Benu", activity_type:"restaurant", city:"sanfrancisco", image:"https://s3-media4.fl.yelpcdn.com/bphoto/5XY9Nle2m7237dDOHqQDNQ/o.jpg")
-activity70= Activity.create(name:"KUSAKABE", activity_type:"restaurant", city:"sanfrancisco", image:"https://s3-media1.fl.yelpcdn.com/bphoto/iXZ1Ts45fAl83jO9XhOELQ/o.jpg")
+activity61= Activity.create(name:"Fog Harbor Fish House", activity_type:"restaurant", city:"San Francisco", image:"https://s3-media2.fl.yelpcdn.com/bphoto/Lv7tIRX3Bim9bKqtWifmNg/o.jpg")
+activity62= Activity.create(name:"Scoma's Restaurant", activity_type:"restaurant", city:"San Francisco", image:"https://s3-media1.fl.yelpcdn.com/bphoto/jbTvgajKfdOYOTEoSTyy3Q/o.jpg")
+activity63= Activity.create(name:"Beretta", activity_type:"restaurant", city:"San Francisco", image:"https://s3-media1.fl.yelpcdn.com/bphoto/HKxMJ8q8fzOY76hy7ACIag/o.jpg")
+activity64= Activity.create(name:"Sweet Maple", activity_type:"restaurant", city:"San Francisco", image:"https://s3-media1.fl.yelpcdn.com/bphoto/0wXPku83Gkrx5qgE7tDjkQ/o.jpg")
+activity65= Activity.create(name:"Absinthe Brasserie & Bar", activity_type:"restaurant", city:"San Francisco", image:"https://s3-media2.fl.yelpcdn.com/bphoto/qVYPzmEiIzHW6l8c-mV6Iw/o.jpg")
+activity66= Activity.create(name:"Kitchen Story", activity_type:"restaurant", city:"San Francisco", image:"https://s3-media1.fl.yelpcdn.com/bphoto/uETy8t3_NILBpJHOp7B9GA/o.jpg")
+activity67= Activity.create(name:"Waterbar", activity_type:"restaurant", city:"San Francisco", image:"https://s3-media4.fl.yelpcdn.com/bphoto/lLhgoH053fKUPddVeIWoWg/o.jpg")
+activity68= Activity.create(name:"La Folie", activity_type:"restaurant", city:"San Francisco", image:"https://s3-media2.fl.yelpcdn.com/bphoto/IWFU__yz5tfgh--sEL40ow/o.jpg")
+activity69= Activity.create(name:"Benu", activity_type:"restaurant", city:"San Francisco", image:"https://s3-media4.fl.yelpcdn.com/bphoto/5XY9Nle2m7237dDOHqQDNQ/o.jpg")
+activity70= Activity.create(name:"KUSAKABE", activity_type:"restaurant", city:"San Francisco", image:"https://s3-media1.fl.yelpcdn.com/bphoto/iXZ1Ts45fAl83jO9XhOELQ/o.jpg")
 
 
 activity71= Activity.create(name:"JW Marriott San Francisco Union Square", activity_type:"hotel", city:"San Francisco", image:"https://s3-media3.fl.yelpcdn.com/bphoto/zj_e7vlHHUT5TqJ6ZExYpw/o.jpg")
@@ -136,7 +136,7 @@ activity106= Activity.create(name:"Mondrian Los Angeles", activity_type:"hotel",
 activity107= Activity.create(name:"The Mosaic Hotel - Beverly Hills", activity_type:"hotel", city:"Los Angeles", image:"https://thumbnails.trvl-media.com/vD0UoBFlC37q7_8_E0kxi1UZbhE=/1200x800/smart/images.trvl-media.com/hotels/1000000/50000/40900/40835/0e5e7da3_w.jpg")
 activity108= Activity.create(name:"Hotel Shangri La Santa Monica", activity_type:"hotel", city:"Los Angeles", image:"https://thumbnails.trvl-media.com/fxXuwZc1dNw_DVlvvW9CPyvkEuA=/1200x800/smart/images.trvl-media.com/hotels/3000000/2180000/2175200/2175155/4da30528_w.jpg")
 activity109= Activity.create(name:"The Ambrose", activity_type:"hotel", city:"Los Angeles", image:"https://thumbnails.trvl-media.com/7x2wb_meKikhR-Zb0qmQSx3cEsY=/1200x800/smart/images.trvl-media.com/hotels/1000000/900000/890600/890565/a19dd975_w.jpg")
-activity110= Activity.create(name:"Montage Beverly Hills", activity_type:"hotel", city:"Los Angeles", image:"https://thumbnails.trvl-media.com/LIhGTAR6kX5vKjYnTFQi2dmrm0c=/1200x800/sma…mages.trvl-media.com/hotels/3000000/2030000/2025500/2025453/a366a376_w.jpg")
+activity110= Activity.create(name:"Montage Beverly Hills", activity_type:"hotel", city:"Los Angeles", image:"https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fpetertaylor%2Ffiles%2F2016%2F11%2FMBH-Architectural-The-Rooftop-Pool-300DPI-1200x800.jpg")
 
 
 activity111= Activity.create(name:"Santa Monica Beach", activity_type:"activity", city:"Los Angeles", image:"https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60")
